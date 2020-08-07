@@ -1,0 +1,13 @@
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\obj\Debug\netcoreapp3.1\LAB4_5Trivia.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\obj\Debug\netcoreapp3.1\LAB4_5Trivia.AssemblyInfoInputs.cache
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\obj\Debug\netcoreapp3.1\LAB4_5Trivia.AssemblyInfo.cs
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\obj\Debug\netcoreapp3.1\LAB4_5Trivia.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\bin\Debug\netcoreapp3.1\LAB4_5Trivia.exe
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\bin\Debug\netcoreapp3.1\LAB4_5Trivia.deps.json
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\bin\Debug\netcoreapp3.1\LAB4_5Trivia.runtimeconfig.json
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\bin\Debug\netcoreapp3.1\LAB4_5Trivia.runtimeconfig.dev.json
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\bin\Debug\netcoreapp3.1\LAB4_5Trivia.dll
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\bin\Debug\netcoreapp3.1\LAB4_5Trivia.pdb
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\obj\Debug\netcoreapp3.1\LAB4_5Trivia.dll
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\obj\Debug\netcoreapp3.1\LAB4_5Trivia.pdb
+C:\Users\nalle\source\repos\LAB4_5Trivia\LAB4_5Trivia\obj\Debug\netcoreapp3.1\LAB4_5Trivia.genruntimeconfig.cache
